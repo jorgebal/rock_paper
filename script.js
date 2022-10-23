@@ -55,4 +55,4 @@ function game(){
         return 'the winner is computer'
     }
 }
-console.log(game())
+console.log()
